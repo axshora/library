@@ -1,0 +1,7 @@
+[Book]: Information
+Title: Axshora
+Author: MJ
+Language: English
+
+[Chapter]: 1
+Title: What is Axshora?
